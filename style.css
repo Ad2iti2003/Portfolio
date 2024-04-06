@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(32, 32, 32);
+    font-size: larger;
+}
+body .home{
+    top: 10px;
+    width: 100%;
+    
+    position: sticky;
+    z-index: 1;
+    opacity: 0.9;
+}
